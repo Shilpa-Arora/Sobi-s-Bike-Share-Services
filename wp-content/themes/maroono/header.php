@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width">
+	<title>Sobi's Bike Station</title>
 <?php wp_head(); ?>
 </head>
 
@@ -16,7 +17,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">Bike Station</a>
+			<a class="navbar-brand" href="#">Sobi's Bike Station</a>
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<?php bootstrap_nav(); ?>
