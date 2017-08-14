@@ -1,9 +1,12 @@
 # Sobi's Bike Share Services
 
-Wordpress site build for client's bike share services. 
-![Laptop](https://github.com/Shilpa-Arora/Sobi-s-Bike-Share-Services/blob/master/laptop.JPG?raw=true " ")
-![Laptop_overlay image](https://github.com/Shilpa-Arora/Sobi-s-Bike-Share-Services/blob/master/laptop_overlay.JPG?raw=true " ")
-![Mobile](https://github.com/Shilpa-Arora/Sobi-s-Bike-Share-Services/blob/master/mobile.JPG?raw=true " ")
+Wordpress site build for client's bike share services.
+
+![Laptop](https://github.com/Shilpa-Arora/Sobi-s-Bike-Share-Services/blob/master/laptop.JPG?raw=true "Laptop View")
+
+![Laptop_overlay image](https://github.com/Shilpa-Arora/Sobi-s-Bike-Share-Services/blob/master/laptop_overlay.JPG?raw=true "Laptop Overlay")
+
+![Mobile](https://github.com/Shilpa-Arora/Sobi-s-Bike-Share-Services/blob/master/mobile.JPG?raw=true "Mobile View")
 
 ##Task Completed
 
