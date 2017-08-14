@@ -1,6 +1,9 @@
 # Sobi's Bike Share Services
 
 Wordpress site build for client's bike share services. 
+![Laptop](Sobi-s-Bike-Share-Services/laptop.JPG?raw=true " ")
+![Laptop_overlay image](Sobi-s-Bike-Share-Services/laptop_overlay.JPG?raw=true " ")
+![Mobile](Sobi-s-Bike-Share-Services/mobile.JPG?raw=true " ")
 
 ##Task Completed
 
