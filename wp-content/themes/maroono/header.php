@@ -17,7 +17,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">Sobi's Bike Station</a>
+			<a class="navbar-brand" href="http://localhost/BikeShareProject/Sobi-s-Bike-Share-Services/">Sobi's Bike Station</a>
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<?php bootstrap_nav(); ?>

@@ -1,5 +1,49 @@
-html,body
-{
-	
-	background:#eee;
+/*body{
+	background-color: #111111 !important;
+	color: white !important;
+}*/
+.filter {
+    width: 188px;
+    height: 44px;
+    border-radius: 100px;
+    background-color: rgba(225,225,225,0.2);
+    border: solid 2px #85144b;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#homepage {
+text-align: center;
+}
+#homepage table{
+	text-align: left;
+}
+#mean, #median, #standarddev{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.navbar{
+
+		background-color: #85144b !important;
+	color: white !important;
+}
+.navbar a{
+	color: white !important;
+}
+
+li#menu-item-70 a{
+
+	text-decoration: none;
+		background-color: #3d0f25 !important;
+	color: white !important;
+}
+.navbar-default .navbar-toggle{
+	border-color: white !important;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+background-color: #3d0f25 !important;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: white !important;
 }
